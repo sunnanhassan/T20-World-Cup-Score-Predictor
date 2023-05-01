@@ -61,7 +61,7 @@ st.markdown(f"<h1 style='text-align: center'>{title}</h1>",unsafe_allow_html=Tru
 # Open the image file using PIL
 # image1 = Image.open("D:\WorkSpaces\ML JOURNEY\Workspace\Pycharm\World-cup-t20-score-predictor\img.png")
 
-image2=Image.open("D:\WorkSpaces\ML JOURNEY\Workspace\Pycharm\World-cup-t20-score-predictor\img2.jpg")
+image2=Image.open("img2.jpg")
 
 
 # Display the image in Streamlit
