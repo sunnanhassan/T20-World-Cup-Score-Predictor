@@ -25,4 +25,4 @@ The T20 World Cup Score Prediction project aims to predict the total runs scored
 
 ## Website OverView:-
 
-### ```Click Here to Visit the Website 👉```[Tap to Predict Score]()
+### ```Click Here to Visit the Website 👉 ```[Tap to Predict Score]()
